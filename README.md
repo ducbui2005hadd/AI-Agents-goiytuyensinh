@@ -1,6 +1,6 @@
-#  AI Agent Tư vấn Tuyển sinh
+#  Machine Learning Tư vấn Tuyển sinh
 
-Đây là một project xây dựng AI Agent đơn giản để gợi ý ngành học đại học dựa trên điểm số và sở thích của người dùng.
+Đây là một project xây dựng ML đơn giản để gợi ý ngành học đại học dựa trên điểm số và sở thích của người dùng.
 
 ##  Tính năng
 
